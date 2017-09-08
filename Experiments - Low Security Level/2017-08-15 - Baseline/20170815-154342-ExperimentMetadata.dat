@@ -1,0 +1,16 @@
+Data_File: 20170815-154342-PLCPartData.csv
+Performance_File: 20170815-154342-PLCPerformanceData.csv
+Date: 20170815
+Time: 154342
+Experiment_Mode: Part_Counter
+Experiment_Value: 100
+Experiment_Start_Seconds: 1502826222.655
+Station_1_ProcessingTime: 5000
+Station_2_ProcessingTime: 5000
+Station_3_ProcessingTime: 3000
+Station_4_ProcessingTime: 3000
+Total_Parts: 100
+Good_Parts: --
+Rejected_Parts: --
+Alarms: --
+Notes: Baseline without ActiveDirectory and new log files.

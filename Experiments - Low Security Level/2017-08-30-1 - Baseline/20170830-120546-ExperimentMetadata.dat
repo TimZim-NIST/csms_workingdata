@@ -1,0 +1,16 @@
+Data_File: 20170830-120546-PLCPartData.csv
+Performance_File: 20170830-120546-PLCPerformanceData.csv
+Date: 20170830
+Time: 120546.742000EST
+Experiment_Mode: Part_Counter
+Experiment_Value: 100
+Experiment_Start_Seconds: 1504109146.742
+Station_1_ProcessingTime: 5000
+Station_2_ProcessingTime: 5000
+Station_3_ProcessingTime: 3000
+Station_4_ProcessingTime: 3000
+Total_Parts: 100
+Good_Parts: --
+Rejected_Parts: --
+Alarms: --
+Notes: Baseline for AD

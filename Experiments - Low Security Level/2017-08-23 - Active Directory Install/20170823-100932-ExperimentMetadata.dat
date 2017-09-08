@@ -1,0 +1,16 @@
+Data_File: 20170823-100932-PLCPartData.csv
+Performance_File: 20170823-100932-PLCPerformanceData.csv
+Date: 20170823
+Time: 100932.636000EST
+Experiment_Mode: Part_Counter
+Experiment_Value: 100
+Experiment_Start_Seconds: 1503497372.636
+Station_1_ProcessingTime: 5000
+Station_2_ProcessingTime: 5000
+Station_3_ProcessingTime: 3000
+Station_4_ProcessingTime: 3000
+Total_Parts: 100
+Good_Parts: --
+Rejected_Parts: --
+Alarms: --
+Notes: Post AD installation. Low baseline. 

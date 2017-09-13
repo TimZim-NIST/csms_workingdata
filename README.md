@@ -29,7 +29,7 @@ Measurement data are in the raw format obtained directly from the testbed system
   +-- Experiments - Moderate Security Level
   +-- Experiments - High Security Level
 ```
-Details about each measurement data file and measurements can be found in the [METADATA][_meta] file.
+Details about each measurement data file and measurements can be found in the [METADATA][_meta] file. Network capture files (PCAP) are available for some experiments, but are not included in the repo due to their large size. 
 
 A detailed description of the collaborative robotics system can be found in the documents [NISTIR 8177, "Metrics and Key Performance Indicators for Robotic Cybersecurity Performance Analysis"][_IR8177], and [NISTIR 8089, "ICS Cybersecurity Performance Testbed Design Report"][_IR8089].
 
